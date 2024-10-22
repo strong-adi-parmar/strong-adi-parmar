@@ -1,6 +1,6 @@
-# Hi 👋, I'm Aditya Parmar
+# Hiya 👋, I'm Aditya "Adi" Parmar
 
-### An MSc Advanced Computer Science student and Full-Stack Developer from Oxford, England 🎓
+### Enthusiatic Indiviual with keen desire to grow and build amazing projects for beloved User. MSc Advanced Computer Science  and Full-Stack Developer with Experience in Software development, Machine Learing, Frontend Development(1+ yr) and LLMs/Gen AI.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaparmar1011&label=Profile%20views&color=0e75b6&style=flat)
 
