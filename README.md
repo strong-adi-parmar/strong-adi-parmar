@@ -48,10 +48,10 @@
 - 🏪 **Kitchen365 Website** - Led frontend development with optimized performance
 
 ### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaparmar1011&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=strong-adi-parmar&show_icons=true&theme=dark)
 
 ### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparmar1011&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strong-adi-parmar&layout=compact&theme=dark)
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
