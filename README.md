@@ -12,7 +12,7 @@ I’ve worked on modernising legacy systems, improving web performance and UX, a
 
 🌱 I'm diving deep into **Cloud Native Technologies & Machine Learning**
 
-💬 Ask me about **Full-stack Development, Frontend Development, Cloud Architecture **
+💬 Ask me about **Full-stack Development, Frontend Development, Cloud Architecture**
 
 📫 How to reach me: **adityaparmar1011@gmail.com**
 
@@ -48,15 +48,14 @@ I’ve worked on modernising legacy systems, improving web performance and UX, a
 - 📰 **Next.js Platform Migration with Headless CMS** -Migrated a legacy PHP platform to a modern Next.js + React architecture, improving performance, SEO, and content workflows
 - 🏪 **Kitchen365 Website** - Led frontend development with optimized performance
 
-### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=strong-adi-parmar&show_icons=true&theme=dark)
+
 
 ### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strong-adi-parmar&layout=compact&theme=dark)
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourProfile)
+
 
 ---
 ⚡ Fun fact: I'm passionate about combining AI with web technologies to create innovative solutions!
