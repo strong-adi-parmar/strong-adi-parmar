@@ -1,29 +1,26 @@
 # Hi 👋, I'm Aditya "Adi" Parmar
 
-### Frontend Engineer with a UK MSc in Advanced Computer Science (Distinction) and professional experience delivering
-customer-facing React applications in cross-functional product teams. Strong focus on code quality, testing, and
-maintainability, with hands-on experience building scalable frontend architectures using React, Next.js, TypeScript,
-HTML, and CSS. Comfortable collaborating across engineering, design, and non-technical stakeholders to ship reliable,
-people-centric products.
+### Frontend / Software Engineer · UK MSc Advanced Computer Science (Distinction)
+I’m a Frontend-focused Software Engineer with professional experience in the UK building customer-facing, production React and Next.js applications in cross-functional product teams. I care deeply about code quality, performance, accessibility, and maintainability, and I enjoy bridging user needs, business goals, and engineering craft.
+
+I’ve worked on modernising legacy systems, improving web performance and UX, and delivering scalable frontend architectures using React, Next.js, TypeScript, HTML, CSS, and Tailwind. Alongside frontend work, I’m comfortable collaborating across product, design, backend, and non-technical stakeholders to ship reliable, people-centric products.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaparmar1011&label=Profile%20views&color=0e75b6&style=flat)
 
-🔭 I'm currently working on **LLM-based Testing Automation Systems**
+🔭 I'm currently working on **Improving frontend performance, accessibility, and developer experience in real-world products**
 
 🌱 I'm diving deep into **Cloud Native Technologies & Machine Learning**
 
-📝 I write technical articles about AI and Web Development
-
-💬 Ask me about **Frontend Development, Cloud Architecture, or Machine Learning**
+💬 Ask me about **Full-stack Development, Frontend Development, Cloud Architecture **
 
 📫 How to reach me: **adityaparmar1011@gmail.com**
 
 ### What I'm proud of:
-- 🚀 Developed an automated testing system for LLM-generated web code (90% faster, 98% accuracy)
-- 🎓 MSc Advanced Computer Science student at Oxford Brookes University
-- ☁️ Experience with cloud-native architectures using Docker & Kubernetes
-- 💻 1.5 years of commercial development experience
+- 🎓 MSc Advanced Computer Science (Distinction) — Oxford Brookes University (UK)
+- 🧪 Dissertation: Automated testing framework for LLM-generated web code using prompt engineering and evaluation metrics (BLEU, SSIM, CLIP)
+- ⚡ Improved frontend performance by up to 40% through modern Next.js architectures and optimisation techniques
+- 💻 2+ years of commercial development experience, including UK-based product teams
 
 ### My Tech Stack:
 
@@ -48,7 +45,7 @@ people-centric products.
 ### Recent Projects:
 - 🤖 **Automated LLM Testing System** - Dissertation project achieving 90% reduction in manual testing time
 - 🎓 **Cloud-Native Learning Platform** - Built with FastAPI, React, and deployed on GCP
-- ❤️ **Heart Failure Prediction** - ML models achieving 92% accuracy in risk prediction
+- 📰 **Next.js Platform Migration with Headless CMS** -Migrated a legacy PHP platform to a modern Next.js + React architecture, improving performance, SEO, and content workflows
 - 🏪 **Kitchen365 Website** - Led frontend development with optimized performance
 
 ### GitHub Stats:
