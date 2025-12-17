@@ -1,7 +1,11 @@
-# Hiya 👋, I'm Aditya "Adi" Parmar
+# Hi 👋, I'm Aditya "Adi" Parmar
 
-### Enthusiastic Individual with keen desire to grow & build amazing projects for beloved Users.
-### MSc Advanced Computer Science  and Full-Stack Developer with Experience in Software development, Machine Learing, Frontend Development(1+ yr) and LLMs/Gen AI.
+### Frontend Engineer with a UK MSc in Advanced Computer Science (Distinction) and professional experience delivering
+customer-facing React applications in cross-functional product teams. Strong focus on code quality, testing, and
+maintainability, with hands-on experience building scalable frontend architectures using React, Next.js, TypeScript,
+HTML, and CSS. Comfortable collaborating across engineering, design, and non-technical stakeholders to ship reliable,
+people-centric products.
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaparmar1011&label=Profile%20views&color=0e75b6&style=flat)
 
