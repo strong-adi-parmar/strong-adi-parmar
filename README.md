@@ -49,10 +49,6 @@ I’ve worked on modernising legacy systems, improving web performance and UX, a
 - 🏪 **Kitchen365 Website** - Led frontend development with optimized performance
 
 
-
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strong-adi-parmar&layout=compact&theme=dark)
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
 
